@@ -34,6 +34,8 @@
 >Here, Should the user choose, is the process to become part of the Lending Libraries community. Each user is asked for full name, user name of their choosing, and password. This allows for consistent access to products that are functionally relevant for each user and require less time to fine when directly linked to their personal profile. 
 >
 >After clicking 'Sign Up', the page slides over to the login page where they can access their profile page and setup their attributes.
+>
+>Should there be any issues there are prompts to warn users as to why that may be. Currently blank information as well as unmatched passwords are used as validation checks.
 
 ## Log In
 ![Log In Page](Images/LoginNew.png)
@@ -61,13 +63,16 @@
 ## Individual Product Page
 ![Individual Product Page](Images/individualProduct.png)
 
->This page holds reviews and create a review function, as well as links to places to purchase, tutorials to learn to modify the product, or save the item to their users wishlist, viewable in their portfolio.
+>This page holds reviews and create a review function (slides in and out when clicking create review), as well as links to places to purchase, tutorials to learn to modify the product, or save the item to their users wishlist, viewable in their portfolio.
 
+## Profile Page
+![Profile Page](Images/Profile.png)
+>The profile page allows users to see their preferences should they wand to edit them as well as create a bio for users. This information will later be shared in the community so people can learn to know a little about the users as well as put a face to the name. Capitalization is used to make sure name is spelled correctly and the update profile button lets users resetup their profile ot adjust any settings desired. 
 
 ## Wish List
 ![Add to Wishlist](Images/wishlistAdd.png)
 
->Should any user want to keep track of the products that has been pulled from the data base, they need only click the 'save' button and it attaches itself to the user profile as a wishlist item!
+>Should any user want to keep track of the products that has been pulled from the data base, they need only click the 'save' button and it attaches itself to the user profile as a wishlist item! This is a functionality for those who are logged in and their products can be found in their profile for viewing as seen here.
 
 ## Glossary
 ![Glossary Page](Images/Glossary.png)
