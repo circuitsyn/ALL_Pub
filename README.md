@@ -88,4 +88,3 @@
 > Let us know what you would like to see or just send a bit of love! We are here to make products more accessible for others, and improving that mission is our whole goal
 
 ### Homepage: http://allfor.life/
-### Repository: https://github.com/circuitsyn/ALL
