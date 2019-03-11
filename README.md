@@ -1,4 +1,4 @@
-![ALL-logo](images/All-logo.png)
+![ALL-logo](Images/All-logo.png)
 # Accessibility Lending Library - ALL
 >The Accessibility Lending Library is a community based website that houses products that have been reviewed from university sources and occupational therapists that are accessible friendly. Not only is it a database of information, it allows users to add reviews and learn how to modify products of their own, learn where to purchase them, or rent one from a local Accessiblity Lending Library. 
 
