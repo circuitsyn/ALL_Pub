@@ -24,12 +24,11 @@
 
 
 ## Home Page
-![Landing Page](Images/LandingPage.png)
-
 >On the Home page is the mission statement, access to all content and the full breakdown of the functionality of the website. In addition the welcome image is customized with the user and a custom greeting.
 
+![Landing Page](Images/LandingPage.png)
+
 ## Sign Up
-![Sign Up Page](Images/SignUp.png)
 
 >Here, Should the user choose, is the process to become part of the Lending Libraries community. Each user is asked for full name, user name of their choosing, and password. This allows for consistent access to products that are functionally relevant for each user and require less time to fine when directly linked to their personal profile. 
 >
@@ -37,20 +36,23 @@
 >
 >Should there be any issues there are prompts to warn users as to why that may be. Currently blank information as well as unmatched passwords are used as validation checks.
 
+![Sign Up Page](Images/SignUp.png)
+
 ## Log In
-![Log In Page](Images/LoginNew.png)
 
 >Where we ask for the same required data to move into the users new profile and curate their results, allowing for ease of access. 
 
+![Log In Page](Images/LoginNew.png)
+
 ## User Walkthrough 
-![User Walkthrough](Images/SetupProfile.png)
 
 >Once the user has authenticated their profile, a user walkthrough setup helps find the best products for the user, which will then populate the search/products page. 
 
 + Once all of the users attributes have been filled out, the page redirects to the landing page where they see their custom welcome greeting.
 
+![User Walkthrough](Images/SetupProfile.png)
+
 ## Products Page
-![Products Page](Images/products.png)
 
 >Is populated with content using the specifications of the attributes chosen (if zn account is created). There is no requirment to choose any at all, but the more specific the request the better the response! 
 >
@@ -60,30 +62,37 @@
 
 * This is all built utilizing a single search function with a logic function that constructs different types of inquiries or locations of search becomes plug in play. No need for a myriad of search functions and built for simplicity and reduced code burden.
 
+![Products Page](Images/products.png)
+
 ## Individual Product Page
-![Individual Product Page](Images/individualProduct.png)
 
 >This page holds reviews and create a review function (slides in and out when clicking create review), as well as links to places to purchase, tutorials to learn to modify the product, or save the item to their users wishlist, viewable in their portfolio.
 
+![Individual Product Page](Images/individualProduct.png)
+
 ## Profile Page
+
+>The profile page allows users to see their preferences should they wand to edit them as well as create a bio for users. This information will later be shared in the community so people can learn to know a little about the users as well as put a face to the name. Capitalization is used to make sure name is spelled correctly and the update profile button lets users resetup their profile ot adjust any settings desired.
+
 ![Profile Page](Images/Profile.png)
->The profile page allows users to see their preferences should they wand to edit them as well as create a bio for users. This information will later be shared in the community so people can learn to know a little about the users as well as put a face to the name. Capitalization is used to make sure name is spelled correctly and the update profile button lets users resetup their profile ot adjust any settings desired. 
 
 ## Wish List
-![Add to Wishlist](Images/wishlistAdd.png)
 
 >Should any user want to keep track of the products that has been pulled from the data base, they need only click the 'save' button and it attaches itself to the user profile as a wishlist item! This is a functionality for those who are logged in and their products can be found in their profile for viewing as seen here.
 
+![Add to Wishlist](Images/wishlistAdd.png)
+
 ## Glossary
-![Glossary Page](Images/Glossary.png)
 
 > This page breaks down both common and uncommon vernacular used, should there be any questions about meaning or purpose of a product.
 
+![Glossary Page](Images/Glossary.png)
+
 ## Admin Insights
-![Administrator Insights](Images/insights.png)
 
 > When an administrator logs in, they have access to the use and statistics of the website as a whole. Searches, recent check outs, ways to improve the Library for all who use it (deeepr insights being built).
 
+![Administrator Insights](Images/insights.png)
 
 ### If there is any need for clarification or the user doesnt see a product that fits their specific need then of course ...
 
