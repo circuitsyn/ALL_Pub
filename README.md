@@ -1,4 +1,4 @@
-![All-logo.png](Images/All-logo.png)
+![ALL-logo](images/All-logo.png)
 # Accessibility Lending Library - ALL
 >The Accessibility Lending Library is a community based website that houses products that have been reviewed from university sources and occupational therapists that are accessible friendly. Not only is it a database of information, it allows users to add reviews and learn how to modify products of their own, learn where to purchase them, or rent one from a local Accessiblity Lending Library. 
 
@@ -88,4 +88,3 @@
 > Let us know what you would like to see or just send a bit of love! We are here to make products more accessible for others, and improving that mission is our whole goal
 
 ### Homepage: http://allfor.life/
-### Repository: https://github.com/circuitsyn/ALL
